@@ -1,0 +1,5 @@
+age=int(input())
+print(age+10)
+dachi=input()
+print("hello"+dachi)
+print(age-5+11)

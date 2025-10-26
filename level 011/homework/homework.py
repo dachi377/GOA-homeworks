@@ -3,3 +3,7 @@
 #დღესდღეონით ყბელაზე მარტივი კოდები არის python javaskrypt scratch
 #python,C,accembler
 #პროგრამირების მთავარი არსი არის კომპიუტერს გარკვევით უთხრა რისი გაკეთება გინდა
+print(5> 2 and 6<7)
+age=int(input())
+print(age>16)
+print(age+10)
